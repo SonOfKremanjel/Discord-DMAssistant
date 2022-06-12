@@ -1,14 +1,14 @@
 # Discord-DMAssistant
 
-This is a discord DM assistant bot. You can manage DM in Discord over voice commands. And more soon.
+#This is a discord DM assistant bot. You can manage DM in Discord over voice commands. And more soon.
 
---Working--
+#--Working--
 
 Computer ask for tell you your DM'S.
 
 Script check for new updates.
 
---In Work--
+#--In Work--
 
 Tell the others automatically if you can talk or not. 
 
@@ -16,7 +16,7 @@ Change your status over your voice.
 
 Write and send messages over your voice.
 
---In Future--
+#--In Future--
 
 Add multiple modes.
 
