@@ -1,6 +1,5 @@
-# Discord-DMAssistant
-
-# This is a discord DM assistant bot for manage DM in Discord over voice commands.
+# Discord-DMAssistant Functions
+# ----------------------------------------------------------------------
 
 # Working
 
@@ -23,3 +22,10 @@
 -Text to Voice (if you do not have a microphone, you can write in a channel and the others hear the text as your voice).
 
 -And More.
+
+# Discord-DMAssistant Usage
+# ----------------------------------------------------------------------
+
+# Just click the bat file.
+
+# Go to my youtube video for more informations
