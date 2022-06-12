@@ -28,4 +28,4 @@
 
 # Just click the bat file.
 
-# Go to my youtube video for more informations
+# In my video I explain why.
